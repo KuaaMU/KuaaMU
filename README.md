@@ -1,6 +1,6 @@
 <!-- ========================= 头部打字机 ========================= -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+KuaaMU;AI-infra+%7C+CV+%7C+Python+%7C+C%2B%2B" alt="Typing">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+KuaaMU" alt="Typing">
 </h1>
 
 <p align="center">
@@ -41,6 +41,6 @@
 ---
 
 ### 📈 Weekly Commit Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuaaMU&theme=radical&hide_border=true" alt="streak"/>
-</p>
+<div align="center"> 
+  <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> 
+</div>
