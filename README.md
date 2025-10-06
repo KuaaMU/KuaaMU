@@ -2,7 +2,7 @@
 
 [![visitors](https://komarev.com/ghpvc/?username=KuaaMU&style=flat-square&color=00C2FF)](https://github.com/KuaaMU)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KuaaMU)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kuaa.mu@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:XCM853629353@gmail.com)
 
 ## 🙋‍♂️ About Me
 - 🎓 AI & CV 爱好者，专注高效训练与推理框架  
@@ -28,7 +28,3 @@
 ## 🏆 Trophy
 ![](https://github-profile-trophy.vercel.app/?username=KuaaMU&theme=radical&no-frame=true&column=7)
 
-----
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" /&gt;
-&lt;/p&gt;
