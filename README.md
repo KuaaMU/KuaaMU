@@ -40,10 +40,7 @@
 
 ---
 
-### 🐍 Snake Eats My Contributions
-![Snake](https://github.com/KuaaMU/KuaaMU/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 📈 Weekly Commit Activity
-![Line](https://github.com/KuaaMU/KuaaMU/blob/output/commit-activity.svg)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuaaMU&theme=radical&hide_border=true" alt="streak"/>
+</p>
