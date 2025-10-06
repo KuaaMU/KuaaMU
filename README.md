@@ -6,8 +6,15 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0BA760&center=true&vCenter=true&width=435&lines=AI-infra+Engineer;Computer+Vision;C%2B%2B+Python+CUDA+C;Always+Learning" alt="KuaaMU's Brief Intro"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0BA760&center=true&vCenter=true&width=435&lines=Always+Learning" alt="KuaaMU's Brief Intro"/>
   </a>
+</p>
+
+<br>
+
+<!-- Profile Views -->
+<p align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=KuaaMU&style=flat-square&color=2aa889"/>
 </p>
 
 <div align="center">
