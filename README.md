@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=KuaaMU&show_icons=true&theme=radical&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KuaaMU&theme=radical&hide_border=true)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KuaaMU&langs_count=8&layout=compact&theme=radical&hide_border=true)
 ## 🏆 Trophy
 ![](https://github-profile-trophy.vercel.app/?username=KuaaMU&theme=radical&no-frame=true&column=7)
 
