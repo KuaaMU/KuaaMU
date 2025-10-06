@@ -12,11 +12,11 @@
 
 <div align="center">
   <!-- 邮箱 -->
-  <a href="mailto:kuaa.mu@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-kuaa.mu%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="mailto:kuaa.mu@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/-kuaa.mu%40outlook.com-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white"/></a>
+  <a href="mailto:XCM853629353@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-XCM853629353%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:XCM853629353@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/-XCM853629353%40outlook.com-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white"/></a>
   <!-- 社交 -->
-  <a href="https://space.bilibili.com/12345678"><img alt="Bilibili" src="https://img.shields.io/badge/-KuaaMU-00A1D6?style=flat-square&logo=bilibili&logoColor=white"/></a>
-  <a href="https://www.zhihu.com/people/kuaa-mu"><img alt="Zhihu" src="https://img.shields.io/badge/-KuaaMU-0084FF?style=flat-square&logo=Zhihu&logoColor=white"/></a>
+  <a href="https://space.bilibili.com/269271355"><img alt="Bilibili" src="https://img.shields.io/badge/-KuaaMU-00A1D6?style=flat-square&logo=bilibili&logoColor=white"/></a>
+  <a href="https://www.zhihu.com/people/92-64-7-12-70"><img alt="Zhihu" src="https://img.shields.io/badge/-KuaaMU-0084FF?style=flat-square&logo=Zhihu&logoColor=white"/></a>
   <a href="https://github.com/KuaaMU"><img alt="GitHub" src="https://img.shields.io/badge/-KuaaMU-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </div>
 
