@@ -29,8 +29,8 @@
 
 ### 🙋‍♂️ About Me
 - 🎓 AI & CV 爱好者，专注高效训练与推理框架
-- 🛠️ Python · C++ · CUDA · PyTorch · ONNXRuntime
-- 🌱 正在探索 LLM 推理加速与多模态大模型
+- 🛠️ Python · C · C++ · Rust · PyTorch · ONNXRuntime
+- 🌱 正在探索 LLM 推理加速与Context Engineering
 - 🤝 欢迎一起交流！提 Issue / PR 都会认真回复～
 
 ## 🔥 Streak stats
