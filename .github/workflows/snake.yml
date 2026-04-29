@@ -18,14 +18,13 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?color_snake=green&color_dots=#161b22,#58a6ff,#1f6feb,#388bfd,#1158c7
             dist/github-contribution-grid-snake-dark.gif
-      - run: |
+
+      - name: Deploy to output branch
+        run: |
+          cd dist
+          git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin output || git checkout --orphan output
-          git checkout output || true
-          rm -rf *.svg *.gif || true
-          cp dist/*.svg . || true
-          cp dist/*.gif . || true
           git add -A
-          git commit -m "update snake" || true
-          git push origin output --force
+          git commit -m "update snake"
+          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main:output
