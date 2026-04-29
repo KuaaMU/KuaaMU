@@ -42,13 +42,13 @@
 <table>
 <tr>
 <td width="50%">
-<h3>🧬 Staked Reputation Protocol</h3>
+<h3>🧬 <a href="https://github.com/KuaaMU">Staked Reputation Protocol</a></h3>
 <p>Economic trust layer for AI agents — staking, slashing, VRF-based decentralized arbitration, and reputation portability across chains.</p>
 <p><b>Stack:</b> Solidity · Rust · Chainlink VRF · ERC-8004</p>
 <p><b>Status:</b> 🔬 Design & Research</p>
 </td>
 <td width="50%">
-<h3>🌐 SolWrapped</h3>
+<h3>🌐 <a href="https://github.com/KuaaMU/solwrapped-app">SolWrapped</a></h3>
 <p>AI-powered wallet personality analyzer for Solana. Your on-chain history reveals your trading archetype.</p>
 <p><b>Stack:</b> Next.js · TypeScript · Helius API · Claude AI</p>
 <p><b>Status:</b> 🏆 Colosseum Frontier Hackathon</p>
@@ -56,13 +56,13 @@
 </tr>
 <tr>
 <td width="50%">
-<h3>🐝 SwarmMind</h3>
+<h3>🐝 <a href="https://github.com/KuaaMU/swarmmind">SwarmMind</a></h3>
 <p>Multi-agent orchestration framework for autonomous task decomposition and collaborative execution.</p>
 <p><b>Stack:</b> Rust · Tauri · Multi-agent</p>
 <p><b>Status:</b> 🥉 X Layer Hackathon — $800 USDT</p>
 </td>
 <td width="50%">
-<h3>🔮 OmniHive</h3>
+<h3>🔮 <a href="https://github.com/KuaaMU/omnihive">OmniHive</a></h3>
 <p>Decentralized agent coordination protocol — agents discover, negotiate, and collaborate on-chain.</p>
 <p><b>Stack:</b> Rust · Tauri · Agent Orchestration</p>
 <p><b>Status:</b> 🔨 Active Development</p>
@@ -78,11 +78,11 @@
 <tr>
 <td>
 <a href="https://github.com/anthropics/claude-agent-sdk-python"><b>Anthropic — Claude Agent SDK</b></a><br/>
-PR fixing Windows test failures due to path separator issues
+<a href="https://github.com/anthropics/claude-agent-sdk-python/pull/219">Fix Windows test failures</a> due to path separator issues
 </td>
 <td>
 <a href="https://github.com/Infrasys-AI/AIInfra"><b>Infrasys-AI — AIInfra</b></a><br/>
-11+ PRs on distributed training: Megatron-LM, ZeRO, Pipeline Parallelism
+<a href="https://github.com/Infrasys-AI/AIInfra/pulls?q=author%3AKuaaMU+is%3Amerged">11+ PRs</a> on distributed training: Megatron-LM, ZeRO, Pipeline Parallelism
 </td>
 </tr>
 </table>
