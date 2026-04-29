@@ -1,0 +1,31 @@
+name: generate-snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: KuaaMU
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?color_snake=green&color_dots=#161b22,#58a6ff,#1f6feb,#388bfd,#1158c7
+            dist/github-contribution-grid-snake-dark.gif
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin output || git checkout --orphan output
+          git checkout output || true
+          rm -rf *.svg *.gif || true
+          cp dist/*.svg . || true
+          cp dist/*.gif . || true
+          git add -A
+          git commit -m "update snake" || true
+          git push origin output --force

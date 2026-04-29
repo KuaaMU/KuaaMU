@@ -1,20 +1,28 @@
-<!-- Header -->
+<!-- Header: Snake Animation -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <br/>
 
 <div align="center">
-  <h1>Hey, I'm <a href="https://github.com/KuaaMU">KuaaMU</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h1>
-  <p><b>Building trust infrastructure for autonomous AI agents.</b></p>
-  <p>
-    <a href="https://x.com/x_swarmmind"><img src="https://img.shields.io/badge/-@x__swarmmind-181717?style=flat-square&logo=x&logoColor=white"/></a>
-    <a href="mailto:XCM853629353@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="https://space.bilibili.com/269271355"><img src="https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white"/></a>
-    <a href="https://www.zhihu.com/people/92-64-7-12-70"><img src="https://img.shields.io/badge/-知乎-0084FF?style=flat-square&logo=Zhihu&logoColor=white"/></a>
-  </p>
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+trust+infrastructure+for+AI+agents;Open+source+contributor+%7C+Hackathon+winner;Rust+%C2%B7+Solidity+%C2%B7+TypeScript+%C2%B7+Python" alt="Typing SVG"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Social Links -->
+  <a href="https://x.com/x_swarmmind"><img src="https://img.shields.io/badge/-@x__swarmmind-181717?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="mailto:XCM853629353@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://space.bilibili.com/269271355"><img src="https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white"/></a>
+  <a href="https://www.zhihu.com/people/92-64-7-12-70"><img src="https://img.shields.io/badge/-知乎-0084FF?style=flat-square&logo=Zhihu&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=KuaaMU&style=flat-square&color=565f89" alt="Profile views"/>
 </div>
 
 <br/>
+
+<!-- Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=120&section=header&text=&fontSize=0" width="100%"/>
 
 <!-- About -->
 <div align="center">
@@ -24,7 +32,8 @@
   </p>
 </div>
 
-<br/>
+<!-- Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=80&section=&text=&fontSize=0" width="100%"/>
 
 ---
 
@@ -104,7 +113,10 @@ Exploring agent-to-agent payment and reputation protocols
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=KuaaMU&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
----
+<br/>
+
+<!-- Footer Waving -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=100&section=footer&text=&fontSize=0" width="100%"/>
 
 <div align="center">
   <i>💡 "Products that earn trust outlast those that chase ideas."</i>
