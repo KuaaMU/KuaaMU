@@ -102,20 +102,6 @@ Exploring agent-to-agent payment and reputation protocols
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=KuaaMU&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuaaMU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=Jupyter%20Notebook"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuaaMU&theme=tokyonight&hide_border=true&background=0d1117" height="150"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuaaMU&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&hide_border=true"/>
 </div>
 
 ---
