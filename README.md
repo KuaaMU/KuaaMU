@@ -78,21 +78,11 @@
 <tr>
 <td>
 <a href="https://github.com/anthropics/claude-agent-sdk-python"><b>Anthropic — Claude Agent SDK</b></a><br/>
-6 PRs fixing Windows compatibility bugs for the official Python SDK
+PR fixing Windows test failures due to path separator issues
 </td>
-<td>
-<a href="https://github.com/zed-industries/extensions"><b>Zed Editor — Extensions</b></a><br/>
-Jupyter notebook extension for the next-gen code editor
-</td>
-</tr>
-<tr>
 <td>
 <a href="https://github.com/Infrasys-AI/AIInfra"><b>Infrasys-AI — AIInfra</b></a><br/>
-10+ PRs on distributed training: Megatron-LM, ZeRO, Pipeline Parallelism
-</td>
-<td>
-<a href="https://github.com/okx/onchainos-skills"><b>OKX — OnchainOS Skills</b></a><br/>
-Exploring agent-to-agent payment and reputation protocols
+11+ PRs on distributed training: Megatron-LM, ZeRO, Pipeline Parallelism
 </td>
 </tr>
 </table>
