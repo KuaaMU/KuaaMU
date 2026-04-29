@@ -1,5 +1,5 @@
 <!-- Header: Snake Animation -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/KuaaMU/KuaaMU/output/github-contribution-grid-snake-dark.svg?v=20260429" width="100%"/>
 
 <br/>
 
