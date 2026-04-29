@@ -51,7 +51,7 @@
 <h3>🌐 <a href="https://github.com/KuaaMU/solwrapped-app">SolWrapped</a></h3>
 <p>AI-powered wallet personality analyzer for Solana. Your on-chain history reveals your trading archetype.</p>
 <p><b>Stack:</b> Next.js · TypeScript · Helius API · Claude AI</p>
-<p><b>Status:</b> 🏆 Colosseum Frontier Hackathon</p>
+<p><b>Status:</b> 🏗️ Colosseum Frontier Hackathon</p>
 </td>
 </tr>
 <tr>
