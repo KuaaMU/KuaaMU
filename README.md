@@ -1,5 +1,5 @@
 <!-- Header: Snake Animation -->
-<img src="https://raw.githubusercontent.com/KuaaMU/KuaaMU/output/github-contribution-grid-snake-dark.svg?v=20260429" width="100%"/>
+<img src="https://raw.githubusercontent.com/KuaaMU/KuaaMU/output/github-contribution-grid-snake-dark.svg?v=20260502" width="100%"/>
 
 <br/>
 
@@ -62,10 +62,20 @@
 <p><b>Status:</b> 🥉 X Layer Hackathon — $800 USDT</p>
 </td>
 <td width="50%">
+<h3>🤖 <a href="https://github.com/KuaaMU/auto-pr-workflow">Auto-PR Workflow</a></h3>
+<p>Methodology for AI agents to autonomously submit high-quality PRs. 37 PRs, 8 merged (21.6%).</p>
+<p><b>Stack:</b> Python · GitHub CLI · Claude Code</p>
+<p><b>Status:</b> ✅ Production</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
 <h3>🔮 <a href="https://github.com/KuaaMU/omnihive">OmniHive</a></h3>
 <p>Decentralized agent coordination protocol — agents discover, negotiate, and collaborate on-chain.</p>
 <p><b>Stack:</b> Rust · Tauri · Agent Orchestration</p>
 <p><b>Status:</b> 🔨 Active Development</p>
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
@@ -83,16 +93,6 @@
 <td>
 <a href="https://github.com/Infrasys-AI/AIInfra"><b>Infrasys-AI — AIInfra</b></a><br/>
 <a href="https://github.com/Infrasys-AI/AIInfra/pulls?q=author%3AKuaaMU+is%3Amerged">11+ PRs</a> on distributed training: Megatron-LM, ZeRO, Pipeline Parallelism
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/KuaaMU/auto-pr-workflow"><b>Auto-PR Workflow</b></a><br/>
-Methodology for AI agents to autonomously submit high-quality PRs. 37 PRs, 8 merged (21.6%)
-</td>
-<td>
-<a href="https://github.com/bytecodealliance/wrpc"><b>ByteCode Alliance — wrpc</b></a><br/>
-<a href="https://github.com/bytecodealliance/wrpc/pull/1170">Unix Domain Socket transport docs</a>
 </td>
 </tr>
 </table>
