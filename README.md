@@ -1,12 +1,12 @@
 <!-- Header: Snake Animation -->
-<img src="https://raw.githubusercontent.com/KuaaMU/KuaaMU/output/github-contribution-grid-snake-dark.svg?v=20260429" width="100%"/>
+<img src="https://raw.githubusercontent.com/KuaaMU/KuaaMU/output/github-contribution-grid-snake-dark.svg?v=20260502" width="100%"/>
 
 <br/>
 
 <div align="center">
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+trust+infrastructure+for+AI+agents;Open+source+contributor+%7C+Hackathon+winner;Rust+%C2%B7+Solidity+%C2%B7+TypeScript+%C2%B7+Python" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+trust+infrastructure+for+AI+agents;Open+source+contributor+%7C+37+PRs+merged;Rust+%C2%B7+Solidity+%C2%B7+TypeScript+%C2%B7+Python" alt="Typing SVG"/>
   </a>
 
   <br/><br/>
@@ -74,18 +74,42 @@
 
 ## 🤝 Open Source Contributions
 
+**37 PRs submitted, 8 merged (21.6%)** across 20+ repositories.
+
 <table>
 <tr>
-<td>
-<a href="https://github.com/anthropics/claude-agent-sdk-python"><b>Anthropic — Claude Agent SDK</b></a><br/>
-<a href="https://github.com/anthropics/claude-agent-sdk-python/pull/219">Fix Windows test failures</a> due to path separator issues
+<td width="50%">
+<h4>✅ Merged (8)</h4>
+<ul>
+<li><a href="https://github.com/anthropics/claude-agent-sdk-python/pull/219"><b>Anthropic — Claude Agent SDK</b></a> — Fix Windows test failures</li>
+<li><a href="https://github.com/anthropics/claude-agent-sdk-python/pull/245"><b>Anthropic — Claude Agent SDK</b></a> — Fix Windows command line length</li>
+<li><a href="https://github.com/bytecodealliance/wrpc/pull/1170"><b>ByteCode Alliance — wrpc</b></a> — Unix Domain Socket transport docs</li>
+<li><a href="https://github.com/facebook/openzl/pull/702"><b>Meta — OpenZL</b></a> — Fix memory allocation mismatch</li>
+<li><a href="https://github.com/go-openapi/runtime/pull/422"><b>go-openapi/runtime</b></a> — Fix literal colons in URL paths</li>
+<li><a href="https://github.com/kontext-security/kontext-cli/pull/88"><b>kontext-cli</b></a> — Exponential backoff for heartbeat</li>
+<li><a href="https://github.com/esengine/reasonix/pull/62"><b>reasonix</b></a> — Add unit tests for clipboard</li>
+<li><a href="https://github.com/garritfra/cell/pull/85"><b>cell</b></a> — Fix quote escaping in .cell format</li>
+</ul>
 </td>
-<td>
-<a href="https://github.com/Infrasys-AI/AIInfra"><b>Infrasys-AI — AIInfra</b></a><br/>
-<a href="https://github.com/Infrasys-AI/AIInfra/pulls?q=author%3AKuaaMU+is%3Amerged">11+ PRs</a> on distributed training: Megatron-LM, ZeRO, Pipeline Parallelism
+<td width="50%">
+<h4>🟢 Open (23)</h4>
+<ul>
+<li><a href="https://github.com/warpdotdev/warp/pull/9833"><b>Warp</b></a> — Add Hermes CLI agent detection</li>
+<li><a href="https://github.com/unjs/consola/pull/417"><b>consola</b></a> — Fix emoji width calculation</li>
+<li><a href="https://github.com/PostHog/posthog-js/pull/3508"><b>PostHog</b></a> — Fix CF Workers response body</li>
+<li><a href="https://github.com/melink14/rikaikun/pull/2978"><b>rikaikun</b></a> — Fix tilde character handling</li>
+<li><a href="https://github.com/zenc-lang/zenc/pull/417"><b>zenc</b></a> — Fix Drop cleanup for unassigned</li>
+<li><a href="https://github.com/rtk-ai/rtk/pull/1645"><b>rtk</b></a> — Remove max_lines cap from helm</li>
+<li><a href="https://github.com/dailydotdev/daily-api/pull/3836"><b>daily-api</b></a> — Add CI workflow</li>
+<li><a href="https://github.com/chenhg5/cc-connect/pull/828"><b>cc-connect</b></a> — DingTalk image handling</li>
+</ul>
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <b>📊 Auto-PR Workflow:</b> <a href="https://github.com/KuaaMU/auto-pr-workflow">Methodology for autonomous PR submission</a>
+</p>
 
 ---
 
