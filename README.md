@@ -133,14 +133,17 @@ Self-built methodology — 33 PRs submitted, 15.2% merge rate across Go, Rust, T
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Impact
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KuaaMU&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <br/>
   <img src="https://img.shields.io/badge/PRs%20Merged-30-7AA2F7?style=flat-square&logo=github&logoColor=white" alt="30 Merged PRs"/>
   <img src="https://img.shields.io/badge/Projects-6-BB9AF7?style=flat-square" alt="6 Projects"/>
   <img src="https://img.shields.io/badge/Hackathon-Winner-F7768E?style=flat-square" alt="Hackathon Winner"/>
+  <img src="https://img.shields.io/badge/Open%20Source-17%2B%20repos-9ECE6A?style=flat-square" alt="17+ repos"/>
+  <br/><br/>
+  <a href="https://github.com/KuaaMU?tab=repositories&sort=stargazers">
+    <img height="180" src="https://streak-stats.demolab.com?user=KuaaMU&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <br/>
