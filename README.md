@@ -76,6 +76,10 @@
 <p><b>Status:</b> 🔨 Active Development</p>
 </td>
 <td width="50%">
+<h3>🧭 <a href="https://github.com/KuaaMU/sextant">Sextant</a></h3>
+<p>AI-native quant engine. Agents read market state via mmap, output structured intents, engine compiles to optimal execution. Nautical dashboard — agents are crew, the market is the sea.</p>
+<p><b>Stack:</b> Rust · NautilusTrader · OKX WebSocket · mmap</p>
+<p><b>Status:</b> 🔨 Active Development</p>
 </td>
 </tr>
 </table>
