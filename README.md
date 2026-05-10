@@ -1,12 +1,12 @@
 <!-- Header: Snake Animation -->
-<img src="https://raw.githubusercontent.com/KuaaMU/KuaaMU/output/github-contribution-grid-snake-dark.svg?v=20260502" width="100%"/>
+<img src="https://raw.githubusercontent.com/KuaaMU/KuaaMU/output/github-contribution-grid-snake-dark.svg?v=20260510" width="100%"/>
 
 <br/>
 
 <div align="center">
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+trust+infrastructure+for+AI+agents;Open+source+contributor+%7C+Hackathon+winner;Rust+%C2%B7+Solidity+%C2%B7+TypeScript+%C2%B7+Python" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&VCenter=true&width=700&lines=30+merged+PRs+across+Anthropic+%C2%B7+Warp+%C2%B7+Meta+open+source;Hackathon+winner+%7C+Agent+trust+infrastructure+%7C+Rust;Building+on-chain+reputation+for+autonomous+agent+economies" alt="Typing SVG"/>
   </a>
 
   <br/><br/>
@@ -27,8 +27,8 @@
 <!-- About -->
 <div align="center">
   <p>
-    I believe the next era of AI isn't just smarter models — it's <b>agents that can trust each other</b> without humans in the loop.<br/>
-    That's what I'm building: on-chain reputation and economic protocols for autonomous agent economies.
+    <b>30 merged PRs</b> across open source — <a href="https://github.com/anthropics/claude-agent-sdk-python">Anthropic</a>, <a href="https://github.com/warpdotdev/warp">Warp</a>, <a href="https://github.com/facebook/openzl">Meta</a>, and 15+ other projects.<br/>
+    Hackathon winner. Building trust infrastructure for autonomous agent economies.
   </p>
 </div>
 
@@ -88,15 +88,37 @@
 
 ## 🤝 Open Source Contributions
 
+> **30 merged PRs** across 17+ projects. Highlights:
+
 <table>
 <tr>
-<td>
+<td width="50%">
 <a href="https://github.com/anthropics/claude-agent-sdk-python"><b>Anthropic — Claude Agent SDK</b></a><br/>
-<a href="https://github.com/anthropics/claude-agent-sdk-python/pull/219">Fix Windows test failures</a> due to path separator issues
+2 PRs merged — <a href="https://github.com/anthropics/claude-agent-sdk-python/pull/219">Windows test fixes</a>, <a href="https://github.com/anthropics/claude-agent-sdk-python/pull/229">CLI path handling</a>
 </td>
-<td>
+<td width="50%">
+<a href="https://github.com/warpdotdev/warp"><b>Warp Terminal</b></a><br/>
+<a href="https://github.com/warpdotdev/warp/pull/9833">Hermes CLI agent detection and configuration</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/bytecodealliance/wrpc"><b>Bytecode Alliance — wrpc</b></a><br/>
+<a href="https://github.com/bytecodealliance/wrpc/pull/1170">Unix Domain Socket transport docs</a>
+</td>
+<td width="50%">
 <a href="https://github.com/Infrasys-AI/AIInfra"><b>Infrasys-AI — AIInfra</b></a><br/>
-<a href="https://github.com/Infrasys-AI/AIInfra/pulls?q=author%3AKuaaMU+is%3Amerged">11+ PRs</a> on distributed training: Megatron-LM, ZeRO, Pipeline Parallelism
+<a href="https://github.com/Infrasys-AI/AIInfra/pulls?q=author%3AKuaaMU+is%3Amerged">11 PRs</a> — Megatron-LM, ZeRO, Pipeline Parallelism
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/h4ckf0r0day/obscura"><b>Meta — OpenZL / Obscura</b></a><br/>
+<a href="https://github.com/h4ckf0r0day/obscura/pull/73">CharacterData DOM API for jQuery</a>, <a href="https://github.com/facebook/openzl/pull/702">memory safety fix</a>
+</td>
+<td width="50%">
+<a href="https://github.com/KuaaMU/auto-pr-workflow"><b>Auto-PR Workflow</b></a><br/>
+Self-built methodology — 33 PRs submitted, 15.2% merge rate across Go, Rust, TS, C, Python
 </td>
 </tr>
 </table>
@@ -115,6 +137,10 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=KuaaMU&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <br/>
+  <img src="https://img.shields.io/badge/PRs%20Merged-30-7AA2F7?style=flat-square&logo=github&logoColor=white" alt="30 Merged PRs"/>
+  <img src="https://img.shields.io/badge/Projects-6-BB9AF7?style=flat-square" alt="6 Projects"/>
+  <img src="https://img.shields.io/badge/Hackathon-Winner-F7768E?style=flat-square" alt="Hackathon Winner"/>
 </div>
 
 <br/>
