@@ -10,7 +10,7 @@
 
   <a href="https://x.com/x_swarmmind"><img src="https://img.shields.io/badge/-@x__swarmmind-181717?style=flat-square&logo=x&logoColor=white"/></a>
   <a href="mailto:XCM853629353@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kuaa-mu/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kuaamu/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=KuaaMU&style=flat-square&color=565f89" alt="Profile views"/>
 </div>
 
