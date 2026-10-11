@@ -1,41 +1,36 @@
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/KuaaMU/KuaaMU/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<div align="center">
 
-<br/>
+<h1>Hi, I'm KuaaMU 👋</h1>
 
-<p align="center">
-  <br/>
-  <a href="https://x.com/x_swarmmind"><img src="https://img.shields.io/badge/-@x__swarmmind-181717?style=flat-square&logo=x&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kuaamu/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<p>I like reading unfamiliar large codebases, fixing things, and sending the fixes upstream.</p>
+
+<p>C is my strongest language — I hand-wrote bare-metal and RTOS code before the agent era. Now I work on AI infra.</p>
+
+<p>
+<a href="https://x.com/X_SwarmMind"><img src="https://img.shields.io/badge/-@X_SwarmMind-181717?style=flat-square&logo=x&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kuaamu/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://gitcode.com/KuaaMU"><img src="https://img.shields.io/badge/-GitCode-2E9FFF?style=flat-square&logo=git&logoColor=white"/></a>
+<a href="https://www.zhihu.com/people/92-64-7-12-70"><img src="https://img.shields.io/badge/-知乎-0066FF?style=flat-square&logo=zhihu&logoColor=white"/></a>
 </p>
 
----
+</div>
 
----
+## Merged upstream
 
-## 🛠️ Projects
+- **[cann/ops-gnn](https://gitcode.com/cann/ops-gnn)** — `radius` / `radius_graph` operators for Huawei Ascend NPU (SIMT kernels, host-side tiling, PyBind bindings), API-aligned with `torch_cluster`. Passed all 25 official acceptance tests, merged into main.
+- **[Infrasys-AI/AIInfra](https://github.com/Infrasys-AI/AIInfra)** — 3rd of 67 contributors. ZeRO, Megatron-LM tensor parallelism, GPipe, VRAM benchmarks — 11 of 12 PRs merged, each reviewed by the author himself.
+- **[anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)** — fixed `--agents` silently breaking on Windows (path separators + `cmd.exe` command-line length limit). Merged #219, #245.
+- **[warpdotdev/warp](https://github.com/warpdotdev/warp)** — Hermes CLI agent detection and configuration. Merged #9833, #9916.
 
-- 👁️ **[mcp-vision-bridge](https://github.com/KuaaMU/mcp-vision-bridge)** `MIT` `npm` —
-  一个 MCP server，把图片路由给你已有的多模态模型，再以文本回注 —— 图片不进入 agent 上下文。
-  起因是我自己踩的坑：用纯文本模型驱动 coding agent 时传图会直接报错。
-  适配 Claude Code / Codex / opencode / Kimi 等 6 种 agent。
-- 🔁 **[auto-pr-workflow](https://github.com/KuaaMU/auto-pr-workflow)** `MIT` —
-  面向陌生仓库的 agent PR 提交流水线。我用它回答「这事到底行不行」，
-  答案是**不行**：合并率明显低于我手写时期的水平，于是停手。
-  踩过的坑连同真实仓库和 PR 编号都记在 `anti-patterns/` 里。
-- 📦 **[agent-plugins](https://github.com/KuaaMU/agent-plugins)** `MIT` — 一个 Claude Code 插件市场。
+## Things I built
 
----
+Everything listed here works — I don't keep unfinished demos around.
 
-## 🤝 Open Source
+- **[mcp-vision-bridge](https://github.com/KuaaMU/mcp-vision-bridge)** — an MCP server that routes images to your existing multimodal model and injects results back as text, so images never enter agent context. Born from my own pain: passing images to a text-only model crashed my coding agent. 7,957 npm downloads in its first month.
+- **[agent-plugins](https://github.com/KuaaMU/agent-plugins)** — my agent workflow toolkit, published as installable skills: task routing, verification discipline, long-horizon skills, a mentor that teaches instead of doing, and personal data-ops.
+- **[auto-pr-workflow](https://github.com/KuaaMU/auto-pr-workflow)** — an experiment: can agents file PRs to unfamiliar repos at scale, toward a self-growing repository? 66 PRs, 18 merged (27.3%) — far below my hand-written 68%. The data said no, so I stopped and published 8 anti-patterns with real repo links, PR numbers, and maintainer quotes.
 
-- 💠 **[Infrasys-AI/AIInfra](https://github.com/Infrasys-AI/AIInfra)** `8.3k★` `67 contributors` —
-  贡献者排名第 3，为排名最高的外部贡献者。ZeRO、Megatron-LM 张量并行、GPipe、显存 benchmark。
-- 🔶 **[cann/ops-gnn](https://gitcode.com/cann/ops-gnn)** —
-  为昇腾 NPU 实现 `radius` / `radius_graph` 算子（SIMT kernel、host 侧 tiling、PyBind 绑定），
-  接口对齐 `torch_cluster`，通过官方验收测试并合入主干。
-- 🔧 **[anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)** —
-  Windows 路径分隔符与 `cmd.exe` 命令行长度上限导致 `--agents` 静默失效的修复。
-- ⚙️ **[warpdotdev/warp](https://github.com/warpdotdev/warp)** — Hermes CLI agent 检测与配置。
+## Now
 
----
+- Preparing for China's CS postgraduate entrance exam (Dec 2026).
+- Open to internships in AI infra / agent engineering — Shenzhen · Hangzhou · Xiamen · Quanzhou.
