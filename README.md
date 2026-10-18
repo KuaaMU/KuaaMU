@@ -28,7 +28,7 @@ Everything listed here works — I don't keep unfinished demos around.
 
 - **[mcp-vision-bridge](https://github.com/KuaaMU/mcp-vision-bridge)** — an MCP server that routes images to your existing multimodal model and injects results back as text, so images never enter agent context. Born from my own pain: passing images to a text-only model crashed my coding agent. 7,957 npm downloads in its first month.
 - **[agent-plugins](https://github.com/KuaaMU/agent-plugins)** — my agent workflow toolkit, published as installable skills: task routing, verification discipline, long-horizon skills, a mentor that teaches instead of doing, and personal data-ops.
-- **[auto-pr-workflow](https://github.com/KuaaMU/auto-pr-workflow)** — an experiment: can agents file PRs to unfamiliar repos at scale, toward a self-growing repository? 66 PRs, 18 merged (27.3%) — far below my hand-written 68%. The data said no, so I stopped and published 8 anti-patterns with real repo links, PR numbers, and maintainer quotes.
+
 
 ## Now
 
